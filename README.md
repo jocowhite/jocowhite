@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp"  />
+  <img height="150" src="https://giphy.com/embed/McOuQddrERqVHXr5Is"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Joel from Stuttgart Germany<br><br>- 🔭 I’m working as AI & Data Junior Consultant @Hewlett Packard Enterprise<br>- 📚 I'm currently learning DataOps<br>- ⚡ In my free time I love photography 📸 and racing 🏎️</p>
+<p align="left">I'm Joel from Stuttgart Germany<br><br>- 🔭 I’m working as AI Project Manager @VfB Stuttgart 1893 AG</p>
 
 ###
 
